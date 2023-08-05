@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label, textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+textarea {
+    width: 100%;
+}
+
+button {
+    margin-top: 10px;
+}
